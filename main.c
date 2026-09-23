@@ -1,8 +1,4 @@
-#if 0
-	Mau ngapain ngab? Tinggal pake aja
-	apa susahnya euy!
-
-	Script by Sanz - Yt : FREE TUTORIAL
+#if 
 #endif
 
 static  char data [] = 
