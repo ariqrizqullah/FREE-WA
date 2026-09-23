@@ -3,13 +3,15 @@ Welcome
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 
 # Free-Sms
-Script termux free sms otp terbaru !
+SC Termux 2026
 
-<details open><summary><code>Perintah Script?</code></summary>
+<details>
+
+<summary><code>Perintah Script?</code></summary>
 
 ```php
-$ git clone https://github.com/Sxp-ID/free-sms
-$ cd free-sms
+$ git clone https://github.com/ariqrizqullah/FREE-WA
+$ cd FREE-WA
 $ make install
 $ ./main
 
@@ -23,5 +25,4 @@ $ make run
 - Subs yt admin <code><a href="https://youtube.com/@freetutorialofficial">FREE TUTORIAL</a></code>
 <div align="center">
 
-### Jgn lupa kasih star masbro !
 </div>
